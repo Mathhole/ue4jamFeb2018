@@ -24,6 +24,8 @@
 *.suo
 *.opensdf
 *.sdf
+*.VC.db
+*.VC.opendb
 
 # Ignore intermediate folders from Xcode
 # TODO: This section can be removed after UnrealBuildTool has been changed to generated Xcode projects that force the 'build' directory to be created under the Intermediate folder instead.
