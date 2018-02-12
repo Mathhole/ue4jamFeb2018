@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "ue4Jam",
+			"Name": "FrozenBattlegrounds",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
