@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "ue4jam",
+			"Name": "ue4Jam",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}

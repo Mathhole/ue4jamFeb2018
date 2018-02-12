@@ -3,4 +3,4 @@
 #include "ue4jam.h"
 #include "Modules/ModuleManager.h"
 
-IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, ue4jam, "ue4jam" );
+IMPLEMENT_PRIMARY_GAME_MODULE(FDefaultGameModuleImpl, FrozenBattlegrounds, "FrozenBattlegrounds");

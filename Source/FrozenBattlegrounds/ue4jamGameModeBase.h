@@ -7,14 +7,14 @@
 #include "ue4jamGameModeBase.generated.h"
 
 /**
- * 
+ *
  */
 UCLASS()
-class UE4JAM_API Aue4jamGameModeBase : public AGameModeBase
+class FROZENBATTLEGROUNDS_API Aue4jamGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
-	
-	
-	
-	
+
+
+
+
 };
